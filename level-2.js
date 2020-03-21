@@ -8,7 +8,7 @@
 var stringValue = "Sample String";
 
 // Question 2
-person = {
+var person = {
     name: "John Doe",
     age: 24
 };
